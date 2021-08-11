@@ -1,0 +1,20 @@
+
+.app {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+button{
+  font-size: 2em;
+  height: 2em;
+  width: 2em;
+}
+
+
